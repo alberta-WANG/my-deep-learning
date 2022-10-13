@@ -1,2 +1,1 @@
-# my-deep-learning
-deep learning project
+# My-Deep-Learning
